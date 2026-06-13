@@ -14,7 +14,7 @@ public class WebPageTest
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://github.com/Soundarya2705/home3.git/");
+        driver.get("https://github.com/Soundarya2705/home3/");
     }
     @Test
     public void titleValidationTest()

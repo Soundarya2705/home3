@@ -32,7 +32,7 @@
                             <outputDirectory>${project.basedir}/docs</outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>src/Main/resources</directory>
+                                    <directory>src/main/resources</directory>
                                     <filtering>true</filtering>
                                 </resource>
                             </resources>
